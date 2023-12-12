@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Menu</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <div class="logo">
+          <a href="index.html">
+            <img src="image/logo.png" alt="Your Restaurant Logo">
+          </a>
+        </div>
+        <nav>
+          <ul>
+            <li><a href="menu.html">Menu</a></li>
+            <li><a href="#">Watch</a></li>
+            <li><a href="#">Reward</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Location</a></li>
+          </ul>
+        </nav>
+        <div class="user-actions">
+          <a href="login.html"><button id="login-btn">Login</button></a>
+          <a href="menu.html"><button id="order-btn">Start Your Order</button></a>
+        </div>
+      </header>
+  
+  <section id="best-sellers">
+    <h2>Best Sellers</h2>
+    <div class="best-seller-item">
+      <img src="image/item (1).png" alt="Best Seller 1">
+      <p>Double Cheese Steak Burgers</p>
+      <p>Price: $9.99</p>
+    </div>
+    <div class="best-seller-item">
+      <img src="image/item (2).png" alt="Best Seller 2">
+      <p>Hot Sauces Chicken Wings</p>
+      <p>Price: $12.99</p>
+    </div>
+    <div class="best-seller-item">
+      <img src="image/item (3).png" alt="Best Seller 3">
+      <p>Tomato Cilantro Pizza</p>
+      <p>Price: $14.99</p>
+    </div>
+  </section>
+
+  <section id="item-list">
+    <h2>Menu Items</h2>
+    <div id="items-container">
+      <!-- Item list will be displayed here -->
+    </div>
+  </section>
+
+  <section id="item-filter">
+    <h2>Filter</h2>
+    <label for="price-filter">Price Range:</label>
+    <select id="price-filter">
+      <option value="all">All</option>
+      <option value="0-10">$0 - $10</option>
+      <option value="10-20">$10 - $20</option>
+      <option value="20-30">$20 - $30</option>
+    </select>
+  </section>
+
+  <footer>
+    <p>&copy; 2023 Your Restaurant. All rights reserved.</p>
+  </footer>
+
+  <script src="menu.js"></script>
+</body>
+</html>
