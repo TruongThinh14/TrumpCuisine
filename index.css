@@ -1,0 +1,316 @@
+.trump-1-icon {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+  }
+  .menu,
+  .watch {
+    position: absolute;
+    height: 58px;
+  }
+  .menu {
+    top: 0;
+    left: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 153px;
+  }
+  .watch {
+    left: 153px;
+  }
+  .about,
+  .reward,
+  .watch {
+    top: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 153px;
+  }
+  .reward {
+    position: absolute;
+    left: 306px;
+    height: 58px;
+  }
+  .about {
+    left: 459px;
+  }
+  .about,
+  .location,
+  .menu-parent {
+    position: absolute;
+    height: 58px;
+  }
+  .location {
+    top: 0;
+    left: 612px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 153px;
+  }
+  .menu-parent {
+    top: 16px;
+    left: 0;
+    width: 765px;
+  }
+  .sign-in,
+  .sign-in-wrapper {
+    position: absolute;
+    width: 146px;
+    height: 44px;
+  }
+  .sign-in {
+    top: 0;
+    left: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .sign-in-wrapper {
+    top: 23px;
+    left: 829px;
+    color: var(--color-orange);
+  }
+  .button-child {
+    top: 0;
+    left: 0;
+    border-radius: 10px;
+    background-color: var(--color-orange);
+    box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25) inset;
+    width: 270px;
+  }
+  .button,
+  .button-child,
+  .start-your-order {
+    position: absolute;
+    height: 69px;
+  }
+  .start-your-order {
+    top: 0;
+    left: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 268.62px;
+  }
+  .button {
+    top: 11px;
+    left: 989px;
+    width: 270px;
+    font-size: var(--font-size-xl);
+    color: var(--color-midnightblue-100);
+  }
+  .group-child {
+    position: absolute;
+    top: -1.5px;
+    left: 971.5px;
+    border-right: 3px solid var(--color-orange);
+    box-sizing: border-box;
+    width: 3px;
+    height: 109px;
+  }
+  .group-parent {
+    position: absolute;
+    top: 27px;
+    left: 181px;
+    width: 1259px;
+    height: 106px;
+  }
+  .group-inner,
+  .group-item {
+    position: absolute;
+    top: 13px;
+  }
+  .group-item {
+    left: 0;
+    background-color: var(--color-orange);
+    width: 1435px;
+    height: 559.98px;
+  }
+  .group-inner {
+    left: 3.53px;
+    background-color: rgba(33, 2, 65, 0.2);
+    width: 1431.47px;
+    height: 345.14px;
+  }
+  .image-7-icon {
+    position: absolute;
+    top: 99px;
+    left: 57px;
+    width: 425px;
+    height: 388px;
+    object-fit: cover;
+  }
+  .div,
+  .double-steak-burger {
+    position: absolute;
+    top: 0;
+    left: 622px;
+    display: flex;
+    align-items: center;
+    width: 671.55px;
+    height: 169.05px;
+    text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  }
+  .div {
+    top: 383px;
+    left: 1195px;
+    font-size: var(--font-size-xl);
+    color: var(--color-midnightblue-100);
+    text-align: center;
+    justify-content: center;
+    width: 197px;
+    height: 169px;
+  }
+  .description,
+  .rectangle-parent {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 1435px;
+    height: 572.98px;
+  }
+  .description {
+    top: 189px;
+    left: 690px;
+    text-align: left;
+    display: flex;
+    align-items: center;
+    width: 738px;
+    height: 169px;
+  }
+  .add-location,
+  .rectangle-div {
+    position: absolute;
+    top: 422px;
+    height: 105px;
+  }
+  .rectangle-div {
+    left: 715px;
+    background-color: #d9d9d9;
+    width: 398px;
+  }
+  .add-location {
+    left: 719px;
+    font-size: var(--font-size-xl);
+    color: #000;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 394px;
+  }
+  .group-container {
+    position: absolute;
+    top: 402px;
+    left: 5px;
+    width: 1435px;
+    height: 572.98px;
+    text-align: right;
+    font-size: var(--font-size-21xl);
+  }
+  .group-child1 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-color: var(--color-orange);
+    width: 1440.84px;
+    height: 136px;
+  }
+  .trump-cuisine {
+    position: absolute;
+    top: 24px;
+    left: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 261.34px;
+    height: 58px;
+  }
+  .frame-child,
+  .frame-wrapper {
+    position: absolute;
+    top: 14px;
+    left: -11px;
+    width: 100px;
+    height: 100px;
+    overflow: hidden;
+  }
+  .frame-wrapper {
+    top: 0;
+    left: 68.39px;
+    width: 136.79px;
+    height: 99px;
+  }
+  .about-ads,
+  .about-us,
+  .connect-us,
+  .privacy {
+    position: absolute;
+    top: 24px;
+    left: 261.34px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 261.34px;
+    height: 58px;
+  }
+  .about-ads,
+  .connect-us,
+  .privacy {
+    left: 522.68px;
+  }
+  .about-ads,
+  .connect-us {
+    left: 784.01px;
+  }
+  .connect-us {
+    left: 1045.35px;
+  }
+  .line-div,
+  .trump-cuisine-parent {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 1306.69px;
+    height: 99px;
+  }
+  .line-div {
+    top: 6.5px;
+    left: 1660.47px;
+    border-right: 3px solid var(--color-orange);
+    box-sizing: border-box;
+    width: 3px;
+    height: 109px;
+  }
+  .group-div,
+  .rectangle-group {
+    position: absolute;
+    top: 11px;
+    left: 49.03px;
+    width: 1661.97px;
+    height: 114px;
+  }
+  .rectangle-group {
+    top: 1401px;
+    left: 0;
+    width: 1711px;
+    height: 136px;
+  }
+  .food-item {
+    position: relative;
+    background-color: var(--color-midnightblue-100);
+    width: 100%;
+    height: 1537px;
+    overflow: hidden;
+    text-align: center;
+    font-size: var(--font-size-5xl);
+    color: var(--color-white);
+    font-family: var(--font-lemon);
+  }
+  
