@@ -1,0 +1,413 @@
+.booking-page {
+  background-color: #210241;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.booking-page .div {
+  background-color: #210241;
+  overflow: hidden;
+  width: 1440px;
+  height: 1765px;
+  position: relative;
+}
+
+.booking-page .overlap {
+  position: absolute;
+  width: 1440px;
+  height: 200px;
+  top: 0;
+  left: 0;
+}
+
+.booking-page .trump {
+  width: 200px;
+  height: 200px;
+  top: 0;
+  object-fit: cover;
+  position: absolute;
+  left: 0;
+}
+
+.booking-page .group {
+  position: absolute;
+  width: 1259px;
+  height: 106px;
+  top: 27px;
+  left: 181px;
+}
+
+.booking-page .navbar {
+  position: absolute;
+  width: 775px;
+  height: 58px;
+  top: 16px;
+  left: 0;
+}
+
+.booking-page .text-wrapper {
+  left: 0;
+  position: absolute;
+  width: 153px;
+  height: 58px;
+  top: 0;
+  font-family: "Lemon", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 24px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.booking-page .text-wrapper-2 {
+  left: 153px;
+  position: absolute;
+  width: 153px;
+  height: 58px;
+  top: 0;
+  font-family: "Lemon", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 24px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.booking-page .text-wrapper-3 {
+  left: 306px;
+  position: absolute;
+  width: 153px;
+  height: 58px;
+  top: 0;
+  font-family: "Lemon", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 24px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.booking-page .text-wrapper-4 {
+  left: 459px;
+  position: absolute;
+  width: 153px;
+  height: 58px;
+  top: 0;
+  font-family: "Lemon", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 24px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.booking-page .text-wrapper-5 {
+  left: 612px;
+  position: absolute;
+  width: 153px;
+  height: 58px;
+  top: 0;
+  font-family: "Lemon", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 24px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.booking-page .BUTTON {
+  all: unset;
+  box-sizing: border-box;
+  position: absolute;
+  width: 272px;
+  height: 69px;
+  top: 11px;
+  left: 989px;
+}
+
+.booking-page .overlap-group {
+  position: relative;
+  width: 270px;
+  height: 69px;
+  background-color: #f39c12;
+  border-radius: 10px;
+  box-shadow: inset 0px 4px 4px #00000040;
+}
+
+.booking-page .text-wrapper-6 {
+  position: absolute;
+  width: 269px;
+  height: 69px;
+  top: 0;
+  left: 0;
+  font-family: "Lemon", Helvetica;
+  font-weight: 400;
+  color: #210241;
+  font-size: 20px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.booking-page .line {
+  position: absolute;
+  width: 3px;
+  height: 106px;
+  top: 0;
+  left: 973px;
+}
+
+.booking-page .ellipse {
+  position: absolute;
+  width: 80px;
+  height: 74px;
+  top: 35px;
+  left: 1054px;
+}
+
+.booking-page .overlap-wrapper {
+  position: absolute;
+  width: 1711px;
+  height: 136px;
+  top: 1629px;
+  left: 0;
+}
+
+.booking-page .overlap-2 {
+  position: relative;
+  height: 136px;
+}
+
+.booking-page .rectangle {
+  width: 1441px;
+  height: 136px;
+  background-color: #f39c12;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.booking-page .group-2 {
+  position: absolute;
+  width: 1662px;
+  height: 114px;
+  top: 11px;
+  left: 49px;
+}
+
+.booking-page .group-3 {
+  position: absolute;
+  width: 1317px;
+  height: 99px;
+  top: 0;
+  left: 0;
+}
+
+.booking-page .overlap-group-2 {
+  width: 261px;
+  height: 99px;
+  top: 0;
+  position: absolute;
+  left: 0;
+}
+
+.booking-page .text-wrapper-7 {
+  width: 261px;
+  height: 58px;
+  top: 24px;
+  font-family: "Lemon", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 24px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  left: 0;
+}
+
+.booking-page .frame {
+  position: absolute;
+  width: 137px;
+  height: 99px;
+  top: 0;
+  left: 68px;
+}
+
+.booking-page .text-wrapper-8 {
+  left: 261px;
+  position: absolute;
+  width: 261px;
+  height: 58px;
+  top: 24px;
+  font-family: "Lemon", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 24px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.booking-page .text-wrapper-9 {
+  position: absolute;
+  width: 261px;
+  height: 58px;
+  top: 24px;
+  left: 523px;
+  font-family: "Lemon", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 24px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.booking-page .text-wrapper-10 {
+  left: 784px;
+  position: absolute;
+  width: 261px;
+  height: 58px;
+  top: 24px;
+  font-family: "Lemon", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 24px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.booking-page .text-wrapper-11 {
+  position: absolute;
+  width: 261px;
+  height: 58px;
+  top: 24px;
+  left: 1045px;
+  font-family: "Lemon", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 24px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.booking-page .img {
+  position: absolute;
+  width: 106px;
+  height: 1px;
+  top: -1404px;
+  left: -3845px;
+}
+
+.booking-page .group-4 {
+  position: absolute;
+  width: 1219px;
+  height: 1128px;
+  top: 243px;
+  left: 119px;
+}
+
+.booking-page .group-5 {
+  position: absolute;
+  width: 496px;
+  height: 925px;
+  top: 95px;
+  left: 0;
+}
+
+.booking-page .rectangle-2 {
+  position: absolute;
+  width: 490px;
+  height: 124px;
+  top: 0;
+  left: 0;
+}
+
+.booking-page .text-wrapper-12 {
+  position: absolute;
+  width: 154px;
+  top: 40px;
+  left: 168px;
+  font-family: "Hanuman", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 32px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.booking-page .overlap-3 {
+  position: absolute;
+  width: 490px;
+  height: 123px;
+  top: 381px;
+  left: 0;
+}
+
+.booking-page .rectangle-3 {
+  width: 490px;
+  height: 123px;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.booking-page .text-wrapper-13 {
+  position: absolute;
+  width: 154px;
+  top: 18px;
+  left: 168px;
+  font-family: "Hanuman", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 32px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.booking-page .overlap-group-3 {
+  width: 490px;
+  height: 124px;
+  top: 801px;
+  position: absolute;
+  left: 0;
+}
+
+.booking-page .image {
+  height: 317px;
+  top: 0;
+  position: absolute;
+  width: 618px;
+  left: 601px;
+  object-fit: cover;
+}
+
+.booking-page .image-2 {
+  height: 317px;
+  top: 382px;
+  position: absolute;
+  width: 618px;
+  left: 601px;
+  object-fit: cover;
+}
+
+.booking-page .image-3 {
+  height: 364px;
+  top: 764px;
+  position: absolute;
+  width: 618px;
+  left: 601px;
+  object-fit: cover;
+}
