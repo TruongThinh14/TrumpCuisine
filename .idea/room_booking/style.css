@@ -1,0 +1,517 @@
+.room-booking {
+  background-color: #210241;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.room-booking .div {
+  background-color: #210241;
+  overflow: hidden;
+  width: 1440px;
+  height: 1765px;
+  position: relative;
+}
+
+.room-booking .overlap {
+  position: absolute;
+  width: 1440px;
+  height: 200px;
+  top: 0;
+  left: 0;
+}
+
+.room-booking .trump {
+  width: 200px;
+  height: 200px;
+  top: 0;
+  object-fit: cover;
+  position: absolute;
+  left: 0;
+}
+
+.room-booking .group {
+  position: absolute;
+  width: 1259px;
+  height: 106px;
+  top: 27px;
+  left: 181px;
+}
+
+.room-booking .navbar {
+  position: absolute;
+  width: 775px;
+  height: 58px;
+  top: 16px;
+  left: 0;
+}
+
+.room-booking .text-wrapper {
+  left: 0;
+  position: absolute;
+  width: 153px;
+  height: 58px;
+  top: 0;
+  font-family: "Lemon", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 24px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.room-booking .text-wrapper-2 {
+  left: 153px;
+  position: absolute;
+  width: 153px;
+  height: 58px;
+  top: 0;
+  font-family: "Lemon", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 24px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.room-booking .text-wrapper-3 {
+  left: 306px;
+  position: absolute;
+  width: 153px;
+  height: 58px;
+  top: 0;
+  font-family: "Lemon", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 24px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.room-booking .text-wrapper-4 {
+  left: 459px;
+  position: absolute;
+  width: 153px;
+  height: 58px;
+  top: 0;
+  font-family: "Lemon", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 24px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.room-booking .text-wrapper-5 {
+  left: 612px;
+  position: absolute;
+  width: 153px;
+  height: 58px;
+  top: 0;
+  font-family: "Lemon", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 24px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.room-booking .BUTTON {
+  all: unset;
+  box-sizing: border-box;
+  position: absolute;
+  width: 272px;
+  height: 69px;
+  top: 11px;
+  left: 989px;
+}
+
+.room-booking .overlap-group {
+  position: relative;
+  width: 270px;
+  height: 69px;
+  background-color: #f39c12;
+  border-radius: 10px;
+  box-shadow: inset 0px 4px 4px #00000040;
+}
+
+.room-booking .text-wrapper-6 {
+  position: absolute;
+  width: 269px;
+  height: 69px;
+  top: 0;
+  left: 0;
+  font-family: "Lemon", Helvetica;
+  font-weight: 400;
+  color: #210241;
+  font-size: 20px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.room-booking .line {
+  position: absolute;
+  width: 3px;
+  height: 106px;
+  top: 0;
+  left: 973px;
+}
+
+.room-booking .ellipse {
+  position: absolute;
+  width: 80px;
+  height: 74px;
+  top: 35px;
+  left: 1054px;
+}
+
+.room-booking .overlap-wrapper {
+  position: absolute;
+  width: 1711px;
+  height: 136px;
+  top: 1629px;
+  left: 0;
+}
+
+.room-booking .overlap-2 {
+  position: relative;
+  height: 136px;
+}
+
+.room-booking .rectangle {
+  position: absolute;
+  width: 1441px;
+  height: 136px;
+  top: 0;
+  left: 0;
+  background-color: #f39c12;
+}
+
+.room-booking .group-2 {
+  position: absolute;
+  width: 1662px;
+  height: 114px;
+  top: 11px;
+  left: 49px;
+}
+
+.room-booking .group-3 {
+  position: absolute;
+  width: 1317px;
+  height: 99px;
+  top: 0;
+  left: 0;
+}
+
+.room-booking .overlap-group-2 {
+  position: absolute;
+  width: 261px;
+  height: 99px;
+  top: 0;
+  left: 0;
+}
+
+.room-booking .text-wrapper-7 {
+  width: 261px;
+  height: 58px;
+  top: 24px;
+  font-family: "Lemon", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 24px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  left: 0;
+}
+
+.room-booking .frame {
+  position: absolute;
+  width: 137px;
+  height: 99px;
+  top: 0;
+  left: 68px;
+}
+
+.room-booking .text-wrapper-8 {
+  left: 261px;
+  position: absolute;
+  width: 261px;
+  height: 58px;
+  top: 24px;
+  font-family: "Lemon", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 24px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.room-booking .text-wrapper-9 {
+  position: absolute;
+  width: 261px;
+  height: 58px;
+  top: 24px;
+  left: 523px;
+  font-family: "Lemon", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 24px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.room-booking .text-wrapper-10 {
+  left: 784px;
+  position: absolute;
+  width: 261px;
+  height: 58px;
+  top: 24px;
+  font-family: "Lemon", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 24px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.room-booking .text-wrapper-11 {
+  position: absolute;
+  width: 261px;
+  height: 58px;
+  top: 24px;
+  left: 1045px;
+  font-family: "Lemon", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 24px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.room-booking .img {
+  position: absolute;
+  width: 106px;
+  height: 1px;
+  top: -1404px;
+  left: -5325px;
+}
+
+.room-booking .overlap-group-wrapper {
+  position: absolute;
+  width: 944px;
+  height: 1298px;
+  top: 258px;
+  left: 226px;
+}
+
+.room-booking .overlap-3 {
+  position: relative;
+  width: 928px;
+  height: 1298px;
+}
+
+.room-booking .rectangle-2 {
+  position: absolute;
+  width: 302px;
+  height: 75px;
+  top: 187px;
+  left: 28px;
+}
+
+.room-booking .rectangle-3 {
+  position: absolute;
+  width: 27px;
+  height: 31px;
+  top: 440px;
+  left: 62px;
+}
+
+.room-booking .rectangle-4 {
+  position: absolute;
+  width: 138px;
+  height: 75px;
+  top: 187px;
+  left: 417px;
+}
+
+.room-booking .rectangle-5 {
+  position: absolute;
+  width: 188px;
+  height: 75px;
+  top: 187px;
+  left: 652px;
+}
+
+.room-booking .text-wrapper-12 {
+  position: absolute;
+  width: 210px;
+  height: 53px;
+  top: 122px;
+  left: 32px;
+  font-family: "Lemon", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 32px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.room-booking .text-wrapper-13 {
+  position: absolute;
+  width: 239px;
+  height: 53px;
+  top: 429px;
+  left: 99px;
+  font-family: "Lemon", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 32px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.room-booking .rectangle-6 {
+  position: absolute;
+  width: 27px;
+  height: 31px;
+  top: 911px;
+  left: 62px;
+}
+
+.room-booking .text-wrapper-14 {
+  position: absolute;
+  width: 247px;
+  height: 53px;
+  top: 900px;
+  left: 99px;
+  font-family: "Lemon", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 32px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.room-booking .rectangle-7 {
+  position: absolute;
+  width: 27px;
+  height: 31px;
+  top: 911px;
+  left: 569px;
+}
+
+.room-booking .text-wrapper-15 {
+  position: absolute;
+  width: 247px;
+  height: 53px;
+  top: 900px;
+  left: 606px;
+  font-family: "Lemon", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 32px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.room-booking .rectangle-8 {
+  position: absolute;
+  width: 27px;
+  height: 31px;
+  top: 440px;
+  left: 569px;
+}
+
+.room-booking .text-wrapper-16 {
+  position: absolute;
+  width: 239px;
+  height: 53px;
+  top: 429px;
+  left: 606px;
+  font-family: "Lemon", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 32px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.room-booking .text-wrapper-17 {
+  position: absolute;
+  width: 234px;
+  height: 53px;
+  top: 116px;
+  left: 369px;
+  font-family: "Lemon", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 32px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.room-booking .text-wrapper-18 {
+  position: absolute;
+  width: 234px;
+  height: 53px;
+  top: 349px;
+  left: 62px;
+  font-family: "Lemon", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 32px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.room-booking .text-wrapper-19 {
+  position: absolute;
+  width: 234px;
+  height: 53px;
+  top: 116px;
+  left: 629px;
+  font-family: "Lemon", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 32px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.room-booking .rectangle-9 {
+  position: absolute;
+  width: 292px;
+  height: 268px;
+  top: 491px;
+  left: 568px;
+  object-fit: cover;
+}
+
+.room-booking .rectangle-10 {
+  position: absolute;
+  width: 928px;
+  height: 1298px;
+  top: 0;
+  left: 0;
+}
